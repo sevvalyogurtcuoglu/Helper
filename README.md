@@ -1,4 +1,4 @@
-# Helper
+# Helpers
 
 - String ifadeyi tersten yazdırmak için;
 ```Python
