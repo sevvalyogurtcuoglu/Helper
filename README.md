@@ -5,7 +5,7 @@
 a="Python Programlama Dili"
 a[::-1]
 ```
-- String bir ifade ile bir sayı çarpılabilir;
+- String bir ifade ile bir sayı çarpılabilir ;
 ```
 b="Python"
 b*3 
