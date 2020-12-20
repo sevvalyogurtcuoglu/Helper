@@ -18,4 +18,7 @@ b*3
 
 ``` 
 **NumPy** kütüphanesi ile ilgili bilgilere ulaşmak için ;  [NumPy.ipynb](https://github.com/sevvalyogurtcuoglu/Helpers/blob/master/NumPy.ipynb)
+
 **Pandas** kütüphanesi ile ilgili bilgilere ulaşmak için ;  [Pandas.ipynb](https://github.com/sevvalyogurtcuoglu/Helpers/blob/master/Pandas.ipynb)
+
+**Veri Yapıları** ( list, tuple, dict, set) ile ilgili bilgilere ulaşmak için ; [Veri_Yapilari,ipynb](https://github.com/sevvalyogurtcuoglu/Helpers/blob/master/Veri_Yapilari.ipynb) ( Güncellenecektir)
