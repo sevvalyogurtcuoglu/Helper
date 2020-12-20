@@ -17,5 +17,5 @@ b*3
 ```
 
 ``` 
-### **NumPy** kütüphanesi ile ilgili bilgilere ulaşmak için ;  [NumPy.ipynb](https://github.com/sevvalyogurtcuoglu/Helpers/blob/master/NumPy.ipynb)
-### Pandas kütüphanesi ile ilgili bilgilere ulaşmak için ;  [Pandas.ipynb](https://github.com/sevvalyogurtcuoglu/Helpers/blob/master/Pandas.ipynb)
+**NumPy** kütüphanesi ile ilgili bilgilere ulaşmak için ;  [NumPy.ipynb](https://github.com/sevvalyogurtcuoglu/Helpers/blob/master/NumPy.ipynb)
+**Pandas** kütüphanesi ile ilgili bilgilere ulaşmak için ;  [Pandas.ipynb](https://github.com/sevvalyogurtcuoglu/Helpers/blob/master/Pandas.ipynb)
